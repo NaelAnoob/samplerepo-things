@@ -2,4 +2,4 @@ circle
 oval
 rectangle
 square
-oblongata
+ellipsoid
